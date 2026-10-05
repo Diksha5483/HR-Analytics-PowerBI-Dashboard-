@@ -1,4 +1,4 @@
-[9:03 AM, 10/5/2026] Diksha: HR Analytics Dashboard
+
 An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze employee attrition, salary, age, years at company, education, gender, and job roles.
 Key Insights
 Total Employees
